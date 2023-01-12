@@ -3,7 +3,7 @@
 action
 - link to google search
 - scale change
-- transarent
+- transparent
 - slide photo
 
 # langauge
